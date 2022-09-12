@@ -1,2 +1,2 @@
 # Supervised-Learning
-A collection of Machine Learning projects that use Supervised Learning.
+A collection of Regression and Classification projects that use Supervised Learning.
